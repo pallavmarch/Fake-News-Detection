@@ -1,11 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# Dataset: https://www.kaggle.com/datasets/jainpooja/fake-news-detection
 
-# http://localhost:8888/notebooks/Downloads/Python_dat/fake-news-detection-using-rnn.ipynb
-# http://localhost:8888/notebooks/Downloads/Python_dat/fake-news-detection.ipynb
-# http://localhost:8888/notebooks/Downloads/Python_dat/fake-news-detection%20(1).ipynb
 
 # In[56]:
 
