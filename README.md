@@ -9,4 +9,6 @@ Dataset: https://www.kaggle.com/datasets/jainpooja/fake-news-detection
 5. Dropping the title, subject and date columns from the totalnews dataset
 6. Assining the 'text' column to the features variable and 'type' column to the targets variable
 7. train_test_split function from scikit-learn is used to split the data into training and testing sets. We have a test size of 20% and a random state of 18.
-8. Cleaned the totalnews dataset by importing the regular expression. We removed the urls, non word characters and extra spaces from the texts present
+8. Defined a function called "clean" which would Clean the totalnews dataset by importing the regular expression. We removed the urls, non word characters and extra spaces from the texts present
+9. We converted the texts to vector numerical units now by importing TfidfVectorizer. 
+10. The training and test dataset are transformed into TF-IDF vectors.
